@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shashank Patel</h1>
 <h3 align="center">A passionate data analyst and web developer from India</h3>
-<img align="right" alt="Analysing" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
+<img align="right" alt="Analysing" width="400" src="https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif">
 
 
 - 📫 How to reach me **akvg2479@gmail.com**
